@@ -38,7 +38,7 @@ $ pip install -r requirements.txt
 
 ## 🗺️ Data Warehouse Schema Diagram
 
-![Data Warehouse Diagram](https://github.com/Marwamedha/SSIS-Package/blob/main/ETL_Package/Diagram.jpg?raw=true)
+![Repo](https://github.com/Marwamedha/Data-Transformation-using-python/blob/main/dataframe_basics.ipynb)
 
 ---
 ## Project Structure
