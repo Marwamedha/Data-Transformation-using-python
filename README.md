@@ -34,6 +34,13 @@ $ pip install -r requirements.txt
    ```
 2. Follow the notebook cells to explore dataframe basics.
 
+---
+
+## 🗺️ Data Warehouse Schema Diagram
+
+![Data Warehouse Diagram](https://github.com/Marwamedha/SSIS-Package/blob/main/ETL_Package/Diagram.jpg?raw=true)
+
+---
 ## Project Structure
 ```
 ├── dataframe_basics.ipynb  # your uploaded notebook
